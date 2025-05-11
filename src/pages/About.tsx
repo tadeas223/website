@@ -17,8 +17,8 @@ function About() {
                         <main>
                             <br />
                             <p>Jmenuji se Tadeáš Máca</p>
-                            <p>Podívej se taky na mé práce --{">"}<Link to="/portfolio">Portfolio</Link></p>
-                            <p>Pokud mě chceš kontaktovat --{">"}<Link to="/contact">Kontakt</Link></p>
+                            <p>Podívej se taky na mé práce --{">"}<Link to="/website/portfolio">Portfolio</Link></p>
+                            <p>Pokud mě chceš kontaktovat --{">"}<Link to="/website/contact">Kontakt</Link></p>
                         </main>
                     </div>
                 </div>
