@@ -15,7 +15,7 @@ function App() {
         <>
             <BrowserRouter>
                 <Routes>
-                    <Route path="/">
+                    <Route path="/website/">
                         <Route index element={<Index />} /> 
                         <Route path="about" element={<About />} /> 
                         <Route path="certs" element={<Certs />} /> 
